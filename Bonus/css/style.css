@@ -40,7 +40,6 @@ body {
 
 .sliderContainer .slides{
     width: 100%;
-    list-style: none;
 }
 
 .sliderContainer .slides .slide {
